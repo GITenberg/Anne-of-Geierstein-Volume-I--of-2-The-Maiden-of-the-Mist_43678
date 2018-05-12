@@ -36,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43678#Anne-of-Geierstein-Volume-I--of-2-The-Maiden-of-the-Mist
 gutenberg_issued: '2013-09-09'
 gutenberg_type: Text
 identifiers:
