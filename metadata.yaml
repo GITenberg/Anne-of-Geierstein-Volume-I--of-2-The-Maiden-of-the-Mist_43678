@@ -1,0 +1,51 @@
+_repo: Anne-of-Geierstein-Volume-I--of-2-The-Maiden-of-the-Mist_43678
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  illustrator:
+    agent_name: Los Rios, R. de‏ (Ricardo)
+    aliases:
+    - Rios, Ricardo de los
+    - Rios, R. de los‏ (Ricardo)
+    - De los Rios, R.‏ (Ricardo)
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '41596'
+    url: http://www.gutenberg.org/2009/agents/41596
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Templeton, Laurence
+    - Cleishbotham, Jedediah
+    - Scott, Sir Walter
+    - Malagrowther, Malachi
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2013-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43678'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Louis XI, 1461-1483 -- Fiction'
+- !lcc 'PR'
+title: Anne of Geierstein; Or, The Maiden of the Mist. Volume 1 (of 2)
+url: http://www.gutenberg.org/ebooks/43678
